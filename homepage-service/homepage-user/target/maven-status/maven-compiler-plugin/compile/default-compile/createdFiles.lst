@@ -1,0 +1,12 @@
+homepage\service\impl\UserServiceImpl.class
+homepage\HomepageUserApplication.class
+homepage\entity\HomepageUser.class
+homepage\service\IUserService.class
+homepage\vo\CreateUserRequest.class
+homepage\dao\HomepageUserDao.class
+homepage\client\CourseClientHystrix.class
+homepage\entity\HomepageUserCourse.class
+homepage\client\CourseClient.class
+homepage\dao\HomepageUserCourseDao.class
+homepage\controller\HomepageUserController.class
+homepage\vo\UserCourseInfo.class

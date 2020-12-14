@@ -1,0 +1,3 @@
+filter\AccessLogFilter.class
+filter\PreRequestFilter.class
+homepage\ZuulGatewayApplication.class

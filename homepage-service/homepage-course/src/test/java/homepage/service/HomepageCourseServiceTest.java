@@ -25,7 +25,7 @@ public class HomepageCourseServiceTest {
     @Autowired
     private ICourseService iCourseService;
 
-    //    @Test
+    @Test
     public void testCreateCourseInfo() {
         HomepageCourse course1 = new HomepageCourse(
                 "course1",
